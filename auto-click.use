@@ -1,0 +1,7 @@
+Name: auto-click
+Description: Autoclicker that allows you to start multiple workers with different intervals, while still being able to reasonably use your mouse
+SourcePath: source/
+Main: main.ooc
+IncludePaths: source/
+Objects: source/utils.o
+Libs: -lX11
