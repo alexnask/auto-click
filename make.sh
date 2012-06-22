@@ -14,7 +14,7 @@ cd snowflake
 make
 cd ..
 cp snowflake/main bin/auto-click
-rm -rf snowflake utils.o
+rm -rf snowflake source/utils.o
 
 
 echo "Done!"
